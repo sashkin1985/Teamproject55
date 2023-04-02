@@ -36,3 +36,19 @@
 .imgfooter2 {
     margin-left: 5%;
 }
+
+
+@media screen and (max-width: 400px) {
+    .grid-containerft {
+        display: none;
+    }
+
+    .imgfooter1 {
+        display: none;
+    }
+
+    .grid-container {
+        grid-template-columns: auto;
+
+    }
+}
