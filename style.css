@@ -172,3 +172,19 @@ h2 {
 
     background-color: rgba(9, 166, 109, 0.05);
 }
+
+@media screen and (max-width: 400px) {
+    .gi7 {
+        display: none;
+    }
+    .gi8 {
+        display: none;
+    }
+    .gi9 {
+        display: none;
+    }
+    .gi14 {
+        display: none;
+    }
+
+}
